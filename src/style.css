@@ -1,1 +1,15 @@
 /* styles go here */
+/* body{
+    background-color: rgb(167, 217, 238);
+} */
+/* div {
+    margin: 10px;
+} */
+input {
+  margin: 10px;
+}
+
+fieldset {
+  /* background-color: rgba(244, 205, 78, 0.557); */
+  margin: 20px;
+}
